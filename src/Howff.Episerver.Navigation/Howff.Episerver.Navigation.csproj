@@ -1,7 +1,25 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <AssemblyName>Howff.Episerver.Navigation</AssemblyName>
+    <Authors>Peter Korsbäck</Authors>
+    <Description>Episerver page tree navigation library</Description>
+    <LangVersion>7.1</LangVersion>
+    <PackageId>Howff.Episerver.Navigation</PackageId>
+    <PackageIconUrl>https://TODO</PackageIconUrl>
+    <PackageLicenseUrl>https://TODO</PackageLicenseUrl>
+    <PackageProjectUrl>https://TODO</PackageProjectUrl>
+    <RepositoryUrl>https://TODO</RepositoryUrl>
+    <Tags>episerver</Tags>
     <TargetFramework>net461</TargetFramework>
+    <Title>Howff Episerver Abstractions</Title>
+    <VersionPrefix>0.1.0</VersionPrefix>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPiServer.CMS.AspNet" Version="11.1.0" />
+    <PackageReference Include="EPiServer.CMS.Core" Version="11.1.0" />
+    <PackageReference Include="Howff.Navigation" Version="0.1.0" />
+  </ItemGroup>
 
 </Project>
