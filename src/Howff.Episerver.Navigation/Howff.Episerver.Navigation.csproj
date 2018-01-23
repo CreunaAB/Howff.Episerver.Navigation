@@ -7,9 +7,9 @@
     <LangVersion>7.1</LangVersion>
     <PackageId>Howff.Episerver.Navigation</PackageId>
     <PackageIconUrl>https://TODO</PackageIconUrl>
-    <PackageLicenseUrl>https://TODO</PackageLicenseUrl>
-    <PackageProjectUrl>https://TODO</PackageProjectUrl>
-    <RepositoryUrl>https://TODO</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/CreunaAB/Howff.Episerver.Navigation/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/CreunaAB/Howff.Episerver.Navigation</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CreunaAB/Howff.Episerver.Navigation</RepositoryUrl>
     <Tags>episerver</Tags>
     <TargetFramework>net461</TargetFramework>
     <Title>Howff Episerver Abstractions</Title>
