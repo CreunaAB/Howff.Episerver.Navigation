@@ -13,7 +13,7 @@
     <Tags>episerver</Tags>
     <TargetFramework>net461</TargetFramework>
     <Title>Howff Episerver Abstractions</Title>
-    <VersionPrefix>0.1.0</VersionPrefix>
+    <VersionPrefix>1.0.0</VersionPrefix>
   </PropertyGroup>
 
   <ItemGroup>
