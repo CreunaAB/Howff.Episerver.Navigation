@@ -19,7 +19,7 @@
   <ItemGroup>
     <PackageReference Include="EPiServer.CMS.AspNet" Version="11.1.0" />
     <PackageReference Include="EPiServer.CMS.Core" Version="11.1.0" />
-    <PackageReference Include="Howff.Navigation" Version="0.1.0" />
+    <PackageReference Include="Howff.Navigation" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
