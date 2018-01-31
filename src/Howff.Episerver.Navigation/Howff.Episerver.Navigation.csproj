@@ -6,7 +6,7 @@
     <Description>Episerver page tree navigation library</Description>
     <LangVersion>7.1</LangVersion>
     <PackageId>Howff.Episerver.Navigation</PackageId>
-    <PackageIconUrl>https://TODO</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/CreunaAB/Howff.Episerver.Navigation/master/icon-256-256.png</PackageIconUrl>
     <PackageLicenseUrl>https://github.com/CreunaAB/Howff.Episerver.Navigation/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/CreunaAB/Howff.Episerver.Navigation</PackageProjectUrl>
     <RepositoryUrl>https://github.com/CreunaAB/Howff.Episerver.Navigation</RepositoryUrl>
